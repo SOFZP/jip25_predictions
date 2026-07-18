@@ -1,5 +1,5 @@
 {
-  "latest_data_url": "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1003/mainnet-beta-jito-ranking-2026-07-17_22-40-46.json",
+  "latest_data_url": "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1004/mainnet-beta-jito-ranking-2026-07-18_21-34-00.json",
   "historic_data_urls": [
     "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/837/mainnet-beta-jito-ranking-2025-08-23_01-15-46.json",
     "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/838/mainnet-beta-jito-ranking-2025-08-24_23-02-07.json",
@@ -167,6 +167,7 @@
     "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1000/mainnet-beta-jito-ranking-2026-07-11_18-25-41.json",
     "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1001/mainnet-beta-jito-ranking-2026-07-13_19-30-59.json",
     "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1002/mainnet-beta-jito-ranking-2026-07-15_20-56-40.json",
-    "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1003/mainnet-beta-jito-ranking-2026-07-17_22-40-46.json"
+    "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1003/mainnet-beta-jito-ranking-2026-07-17_22-40-46.json",
+    "https://raw.githubusercontent.com/SOFZP/jip25_predictions/main/data/mainnet-beta/1004/mainnet-beta-jito-ranking-2026-07-18_21-34-00.json"
   ]
 }
